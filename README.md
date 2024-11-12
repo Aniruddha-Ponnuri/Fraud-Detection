@@ -72,7 +72,7 @@ We integrated our model into a sleek **web application**:
 🖥️ **How to Run the App:**
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:Aniruddha-Ponnuri/Fraud-Detection.git
    ```
 2. Open `FraudDetection.html` in your browser.
 
